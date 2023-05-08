@@ -1,0 +1,39 @@
+/* @font-face {
+    font-family: Delicious;
+    src: url('Delicious-Roman.otf');
+}
+
+@font-face {
+    font-family: Delicious;
+    font-weight: bold;
+    src: url('Delicious-Bold.otf');
+} */
+
+@font-face {
+    font-weight: 400;
+    /* Соответствует значению normal */
+    font-family: HelveticaNeue;
+    src: url("../fonts/Inter-Regular.woff2");
+}
+
+@font-face {
+    font-weight: 500;
+    /* Соответствует значению normal */
+    font-family: HelveticaNeue;
+    src: url("../fonts/Inter-Medium.woff2");
+}
+
+@font-face {
+    font-weight: 600;
+    /* Соответствует значению normal */
+    font-family: HelveticaNeue;
+    src: url("../fonts/Inter-SemiBold.woff2");
+}
+
+
+@font-face {
+    font-weight: 700;
+    /* Соответствует значению normal */
+    font-family: HelveticaNeue;
+    src: url("../fonts/Inter-SemiBold.woff2");
+}
